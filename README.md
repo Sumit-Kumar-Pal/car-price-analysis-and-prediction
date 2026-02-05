@@ -59,8 +59,8 @@ data usage restrictions.
 ---
 
 ## ▶️ How to Run the Project
+
 1. Clone this repository:
-```bash
 git clone https://github.com/YourUsername/car-price-analysis-and-prediction.git
 
 2. Install dependencies:
@@ -68,4 +68,5 @@ pip install -r requirements.txt
 
 3. Open the notebook:
 jupyter notebook CAR_PRICE.ipynb
+
 
